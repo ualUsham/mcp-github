@@ -1,6 +1,6 @@
 # GitHub MCP (Model Context Protocol) server
 
-Hi! This is my first **GitHub MCP server** that allows *MCP compatible* LLMs like *Claude* to interact with my MCP server and hence with GitHub API.
+Hello! This is a GitHub MCP server designed to enable MCP-compatible LLMs, such as Claude, to communicate with my MCP server and interact with the GitHub API.
 
 
 # Requirements
